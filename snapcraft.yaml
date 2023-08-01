@@ -2,6 +2,8 @@ name: mysnaptest
 version: 0.1
 summary: Qt Hello World example
 description: A simple Qt example
+confinement: strict
+grade: stable
 
 apps:
   mysnaptest:

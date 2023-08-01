@@ -3,3 +3,4 @@ parts/*
 __pycache__/
 snap/
 stage/
+build/
