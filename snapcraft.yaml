@@ -4,13 +4,13 @@ summary: Qt Hello World example
 description: A simple Qt example
 
 apps:
-  hello-world-desktop:
+  mysnaptest:
     command: mysnaptest
     plugs:
       - x11
 
 parts:
-  hello-world:
+  mysnaptest:
     plugin: cmake
     source: src/
     build-packages:
