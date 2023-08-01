@@ -4,6 +4,7 @@ summary: Qt Hello World example
 description: A simple Qt example
 confinement: strict
 grade: stable
+base: core18
 
 apps:
   mysnaptest:
